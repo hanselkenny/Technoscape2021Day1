@@ -1,0 +1,23 @@
+{
+  "name": "technoscape2021day1",
+  "version": "1.0.0",
+  "description": "Untuk mempelajari CI/CD menggunakan jenkins",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hanselkenny/Technoscape2021Day1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hanselkenny/Technoscape2021Day1/issues"
+  },
+  "homepage": "https://github.com/hanselkenny/Technoscape2021Day1#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
